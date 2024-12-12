@@ -1,0 +1,1311 @@
+    1  pip3 install notebook
+    2  git-clone
+    3  gitclone
+    4  ls
+    5  git@git.generalassemb.ly:joejannuzzi/01-python-programming-classwork.git
+    6  git clone git@git.generalassemb.ly:joejannuzzi/01-python-programming-classwork.git
+    7  ls
+    8  cd 01-
+    9  cd 01*
+   10  ls
+   11  cd ..
+   12  ls
+   13  cd 01*
+   14  ls -a
+   15  ls
+   16  cd ..
+   17  ls
+   18  ls -s
+   19  ls
+   20  ls -a
+   21  ls
+   22  cd 0*
+   23  ls
+   24  cd ..
+   25  ssh-keygen -1 ed25519 -C "joe.jannuzzi@prudential.com"
+   26  ssh-keygen -t ed25519 -C "joe.jannuzzi@prudential.com"
+   27  eval "$(ssh-agent -s)"
+   28  ssh-add ~/.ssh/id_ed25519
+   29  cat ~/.ssh/id_ed25519.pub
+   30  git remote add upstream git@git.generalassemb.ly:prudential-infrastructure-developer/01-python-programming-classwork.git
+   31  ls
+   32  cd 01
+   33  cd 01-python-programming-classwork/
+   34  git remote add upstream git@git.generalassemb.ly:prudential-infrastructure-developer/01-python-programming-classwork.git
+   35  git fetch upstream
+   36  git merge upstream/main
+   37  ls
+   38  code .
+   39  git add -A
+   40  git commit -m "This is my first commit."
+   41  git push
+   42  git config --global user.name "Joe Jannuzzi"
+   43  git config --global user.email "joe.jannuzzi@prudential.com"
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd Documents
+   48  pwd
+   49  mkdir git_practice
+   50  ls
+   51  cd git*
+   52  ls
+   53  pw
+   54  pwd
+   55  ls
+   56  ls -a
+   57  ls
+   58  touch file1.txt file2.txt file3.txt
+   59  ls
+   60  ls 0a
+   61  ls
+   62  git init
+   63  ls -a
+   64  ls -ltra
+   65  git status
+   66  ls
+   67  git status
+   68  ls
+   69  ls -a
+   70  ls -ltra
+   71  git add file1.txt
+   72  ls
+   73  git status
+   74  git commit -m "First commit of file1.txt"
+   75  ls
+   76  git status
+   77  git add file*.txt
+   78  git status
+   79  ls
+   80  git status
+   81  git commit -m "Committing files 2 and 3"
+   82  git status
+   83  ls
+   84  ren
+   85  rn
+   86  rename
+   87  vi file1.tx
+   88  vi file1.txt
+   89  ls
+   90  exit
+   91  ls
+   92  vim
+   93  git status
+   94  ls
+   95  ls -a
+   96  exit
+   97  ls
+   98  git status
+   99  git push
+  100  ls
+  101  git status
+  102  git add -A
+  103  git st
+  104  git commit -m "Committing everything but latest file 1 update"
+  105  git status
+  106  git add .
+  107  gt status
+  108  git status
+  109  git commit -m "Committing latest file 1 update"
+  110  git status
+  111  git
+  112  git logs
+  113  git log
+  114  ls
+  115  exit
+  116  ls
+  117  jobs
+  118  job stop 1
+  119  jobs stop 1
+  120  jobs
+  121  jobs 1 stop
+  122  jobs
+  123  ps
+  124  jobs -p -s
+  125  jobs -ls
+  126  kill 23392
+  127  jobs
+  128  exit
+  129  jobs
+  130  git log
+  131  exit
+  132  ls
+  133  exit
+  134  /bin/python3 "/home/du_233601-1727455242/01-python-programming-classwork/Day-07. Debugging and Error Handling/01. Extended_Task/budget.py"
+  135  cd 01-python-programming-classwork/
+  136  ls
+  137  ls -a
+  138  ls
+  139  code .
+  140  ls
+  141  git add -A
+  142  git commit -m "Just checking in for the day...."
+  143  git push
+  144  ls
+  145  cd Documents
+  146  ls
+  147  cd git_practice
+  148  ls
+  149  code .
+  150  git remote -v
+  151  git remote add origin git@git.generalassemb.ly:joejannuzzi/git_practice.git
+  152  git remote -v
+  153  git branch -M main
+  154  git push -u origin main
+  155  ls
+  156  git remote -v
+  157  ls
+  158  touch text5.txt
+  159  git status
+  160  git add -A
+  161  git status
+  162  git commit -m "Added new file 5"
+  163  ls
+  164  git push
+  165  ls
+  166  cd ..
+  167  ls
+  168  cd ..
+  169  ls
+  170  cd 01*
+  171  ls
+  172  git status
+  173  pwd
+  174  git status
+  175  git add -A
+  176  git status
+  177  git commit -m "Testing commit"
+  178  git push
+  179  git status
+  180  git push origin main
+  181  git push
+  182  pip install geopy
+  183  pip3 list
+  184  pip install geopy
+  185  cl
+  186  cls
+  187  clear
+  188  ls
+  189  code
+  190  exit
+  191  /bin/python3 "/home/du_233601-1727455242/01-python-programming-classwork/Day-10. Final Project/01. Python_Project/project_starter.py"
+  192  \/bin/python3 "/home/du_233601-1727455242/01-python-programming-classwork/Day-10. Final Project/01. Python_Project/project_starter.py"
+  193  ls
+  194  cd 01*
+  195  code .
+  196  cd ..
+  197  ls
+  198  man wget
+  199  exit
+  200  ls
+  201  info
+  202  sudo apt update
+  203  exit
+  204  /bin/python3 "/home/du_233601-1727455242/01-python-programming-classwork/Day-10. Final Project/01. Python_Project/project_starter.py"
+  205  ls
+  206  ls -a
+  207  ls
+  208  cls
+  209  ls
+  210  clear
+  211  ls -a
+  212  ls -l
+  213  ls
+  214  ls -l
+  215  ls -a
+  216  ls
+  217  cd
+  218  ls
+  219  cd
+  220  mkdir git_practice
+  221  cd
+  222  ls
+  223  pwd
+  224  ls
+  225  cd git*
+  226  git init
+  227  ls -a
+  228  ls
+  229  ls - a
+  230  ls
+  231  ls -a
+  232  touch a.txt
+  233  ls
+  234  git status
+  235  git add a.txt
+  236  git status
+  237  ls
+  238  git commit -m "add new file to project"
+  239  ls
+  240  code .
+  241  git -status
+  242  git status
+  243  history
+  244  cd ..
+  245  cd
+  246  pip install requests
+  247  exit
+  248  /bin/python3 "/home/du_233601-1727455242/02-python-for-developers-classwork/Day-01. Review: Terminal, GitHub, APIs/03. APIs/02. Weather API Lab/api_test.py"
+  249  /bin/python3 "/home/du_233601-1727455242/02-python-for-developers-classwork/Day-01. Review: Terminal, GitHub, APIs/03. APIs/02. Weather API Lab/Weather_API_Solution_One.py"
+  250  /bin/python3 "/home/du_233601-1727455242/02-python-for-developers-classwork/Day-01. Review: Terminal, GitHub, APIs/03. APIs/02. Weather API Lab/Weather_API_Lab.py"
+  251  /bin/python3 "/home/du_233601-1727455242/02-python-for-developers-classwork/Day-02. Building Your Own API/01. Intro to Fast API/exercises/pip_env_test/main.py"
+  252  pipenv run uvicorn main:app
+  253  /bin/python /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  254  pipenv run uvicorn main:app --reload
+  255  /bin/python3 "/home/du_233601-1727455242/02-python-for-developers-classwork/Day-02. Building Your Own API/01. Intro to Fast API/exercises/hello_world_app/main.py"
+  256  pipenv shell
+  257  pipenv install fastapi
+  258  pipenv run python main.py
+  259  python3 main.py
+  260   . /home/du_233601-1727455242/.local/share/virtualenvs/pip_env_test-OTLwpQmN/bin/activate
+  261  /bin/python3 "/home/du_233601-1727455242/02-python-for-developers-classwork/Day-02. Building Your Own API/01. Intro to Fast API/exercises/pip_env_test/main.py"
+  262  python main.py
+  263  pip list
+  264  /bin/python3 "/home/du_233601-1727455242/02-python-for-developers-classwork/Day-02. Building Your Own API/02. Fast API CRUD App/exercises/modules_and_packages/main.py"
+  265  python3 main.py
+  266  sudo systemctl stop postgresql
+  267  sudo -u postgres postgres --single -D /var/lib/pgsql/data
+  268  pipenv run python seed.py
+  269  psql -U postgres -d teas_db
+  270  pipenv run python seed.py
+  271  cl
+  272  clear
+  273  pipenv run python seed.py
+  274  clear
+  275  pipenv run python seed.py
+  276  psql -U postgres -d teas_db
+  277  pipenv install pydantic
+  278  pipenv run uvicorn main:app --reload
+  279  psql -U postgres -d teas_db
+  280  pipenv run python seed.py
+  281  psql -U postgres -d teas_db
+  282  psql -U postgres -d teas_db
+  283  exit
+  284  pipenv run uvicorn main:app --reload
+  285  pipenv install pyjwt
+  286  pipenv run uvicorn main:app --reload
+  287  /bin/python /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  288  sudo systemctl stop postgresql
+  289  sudo -u postgres postgres --single -D /var/lib/pgsql/data
+  290  sudo systemctl start postgresql
+  291  psql -U postgres
+  292  sudo -u postgres postgres --single -D /var/lib/pgsql/data
+  293  sudo systemctl stop postgresql
+  294  sudo -u postgres postgres --single -D /var/lib/pgsql/data
+  295  sudo systemctl start postgresql
+  296  psql -U postgres
+  297  createdb teas_db -U postgres
+  298  psql teas_db -U postgres
+  299  pipenv run python seed.py
+  300  ls
+  301  cd 02-python-for-developers-classwork/
+  302  ls
+  303  cd Day-03
+  304  ls
+  305  cd Day-03.\ Database\ Implementation/
+  306  ls
+  307  cd 
+  308  ls
+  309  cd exercoses
+  310  ls
+  311  cd exercises/
+  312  ls
+  313  cd pip_env_test/
+  314  ls
+  315  cd ..
+  316  ls
+  317  cd 02-python-for-developers-classwork/
+  318  ls
+  319  code .
+  320  ls
+  321  cd Day-02
+  322  ls
+  323  cd Day-02.\ Building\ Your\ Own\ API/
+  324  ls
+  325  cd 02.\ Fast\ API\ CRUD\ App/
+  326  ls
+  327  cd exercises
+  328  ls
+  329  cd fast_api_crud_app
+  330  ls
+  331  code .
+  332  pipenv run python seed.py
+  333  pipenv run uvicorn main:app --reload
+  334  mkdir terminal_practice
+  335  ls
+  336  cs - a
+  337  ls -a
+  338  ls -?
+  339  ls --help
+  340  ls -a
+  341  clear
+  342  ls -a
+  343  ls
+  344  cd termina*
+  345  touch file_1.txt file_2.txt
+  346  ls
+  347  ls 0a
+  348  ls -a
+  349  mv file_2.txt file_22.txt
+  350  ls
+  351  code file_1.txt
+  352  ls
+  353  cd ..
+  354  ls
+  355  git clone git@git.generalassemb.ly:joejannuzzi/02-python-for-developers-classwork.git
+  356  ls
+  357  cd 02
+  358  cd 02.
+  359  cd 02*
+  360  ls
+  361  git remote add upstream git@git.generalassemb.ly:prudential-infrastructure-developer/02-python-for-developers-classwork.git
+  362  git remote -v
+  363  ls
+  364  cd day-01*
+  365  cd Day-01.\ Review\:\ Terminal\,\ GitHub\,\ APIs/
+  366  ls
+  367  cd ..
+  368  code .
+  369  cd
+  370  ls
+  371  cd 02*
+  372  ls
+  373  ls -a
+  374  ls -l
+  375  cd Day-01.\ Review\:\ Terminal\,\ GitHub\,\ APIs/
+  376  ls
+  377  ls -a
+  378  ls
+  379  cd 03.\ APIs/
+  380  ls
+  381  ls -a
+  382  ls -l
+  383  pip install urllib3
+  384  pip install urllib3==1.26.6
+  385  cd
+  386  pwd
+  387  pip3 install pipenv
+  388  ls
+  389  cd ./excercises
+  390  cd ,
+  391  cd .
+  392  ls
+  393  cd 02-python-for-developers-classwork/
+  394  ls
+  395  cd .
+  396  cd
+  397  pwd
+  398  ls
+  399  ls -a
+  400  pip install pipenv
+  401  pip3 install pipenv
+  402  ls
+  403  ls -a
+  404  cd ./exercises
+  405  cls
+  406  clear
+  407  ls
+  408  pipenv
+  409  cls
+  410  clear
+  411  ls
+  412  mkdir ./exercises/pip_env_test
+  413  ls
+  414  mkdir /exercises/pip_env_test
+  415  mkdir exercises
+  416  cd exercises
+  417  ls
+  418  mkdir pip_env_test
+  419  pip3 install pipenv
+  420  ls
+  421  cd pip_env_test/
+  422  ls
+  423  cd..
+  424  cd ..
+  425  ls
+  426  cd .
+  427  ls
+  428  cd
+  429  ls
+  430  cd 02-python-for-developers-classwork/
+  431  ls
+  432  cd Day-02.\ Building\ Your\ Own\ API/
+  433  ls
+  434  cd 01.\ Intro\ to\ Fast\ API/
+  435  ls
+  436  cd exercises
+  437  ls
+  438  cd ..
+  439  ls
+  440  cd 
+  441  ls
+  442  cd 02
+  443  cd 02-python-for-developers-classwork/
+  444  ls
+  445  cd Day-02.\ Building\ Your\ Own\ API/
+  446  ls
+  447  cd 01.\ Intro\ to\ Fast\ API/
+  448  ls
+  449  cd exercises/
+  450  ls
+  451  cd pip_env_test
+  452  code ,
+  453  code .
+  454  cd ..
+  455  ks
+  456  ls
+  457  cd hello_world_app
+  458  ls
+  459  python3 --version
+  460  pipenv install --python 3.7
+  461  ls
+  462  code .
+  463  pipenv install fastapi
+  464  pipenv install uvicorn
+  465  ls
+  466  ls -a
+  467  touch main.py
+  468  ls
+  469  code .
+  470  ls
+  471  code .
+  472  ls -a
+  473  ls
+  474  cd .
+  475  ls
+  476  cd
+  477  ls
+  478  cd 02-python-for-developers-classwork/
+  479  ls
+  480  cd Day-02.\ Building\ Your\ Own\ API/
+  481  ls
+  482  cd 02.\ Fast\ API\ CRUD\ App/
+  483  ls
+  484  ls -l
+  485  cd exercises
+  486  ls
+  487  cd modules_and_packages
+  488  ls
+  489  code .
+  490  ls
+  491  code .
+  492  ls
+  493  cd ..
+  494  ls
+  495  cd fast_api_crud_app
+  496  ls
+  497  code .
+  498  ls
+  499  mkdir models controllers
+  500  ls
+  501  touch models/tea_data.py controllers/teas.py
+  502  ls
+  503  cd models
+  504  ls
+  505  cd ..
+  506  ls
+  507  pipenv install fastapi uvicorn --python 3.7
+  508  touch main.py
+  509  ls
+  510  pipenv install sqlalchemy psycopg2-binary
+  511  ls
+  512  pipenv run python seed.py
+  513  sudo vim /var/lib/pgsql/data/pg_hba.conf
+  514  ls
+  515  sudo vim /var/lib/pgsql/data/pg_hba.conf
+  516  sudo systemctl restart postgresql
+  517  pipenv run python seed.py
+  518  psql -d teas_db -u postgres
+  519  psql -d teas_db -U postgres
+  520   . /home/du_233601-1727455242/.local/share/virtualenvs/du_233601-1727455242-Ix3ApQkC/bin/activate
+  521  pipenv install fastapi
+  522  exit
+  523  mkdir config controllers data dependencies models serializers
+  524  pipenv install fastapi
+  525  pipenv shell
+  526  exit
+  527   . /home/du_233601-1727455242/.local/share/virtualenvs/du_233601-1727455242-Ix3ApQkC/bin/activate
+  528  pipenv install fastapi
+  529  pipenv rim python main.py
+  530  pipenv run python main.py
+  531  ls
+  532  exit
+  533  pipenv shell
+  534  exit
+  535   . /home/du_233601-1727455242/.local/share/virtualenvs/du_233601-1727455242-Ix3ApQkC/bin/activate
+  536  pipenv install fastapi
+  537  ls
+  538  exit
+  539  ls
+  540  pipenv shell
+  541  exit
+  542   . /home/du_233601-1727455242/.local/share/virtualenvs/du_233601-1727455242-Ix3ApQkC/bin/activate
+  543  ls
+  544  cd Project
+  545  cd 02-python-for-developers-classwork/
+  546  ls
+  547  cd PROJECT/
+  548  ls
+  549  pipenv install fastapi
+  550  ls
+  551  pipenv install fastapi
+  552  ls
+  553  pipenv run python main.py
+  554  ksls
+  555  exit
+  556  ls
+  557  pipenv shell
+  558  \exit
+  559  pip list
+  560  pipenv
+  561  exit
+  562   . /home/du_233601-1727455242/.local/share/virtualenvs/du_233601-1727455242-Ix3ApQkC/bin/activate
+  563  pipenv install fastapi
+  564  ls
+  565  vim pipfile
+  566  ls
+  567  vim Pipfile
+  568  exit
+  569  pipenv run uvicorn main:app --reload
+  570  ls
+  571  clear
+  572  ls
+  573  pipenv shell
+  574  exit
+  575  pipenv run uvicorn main:app --reload
+  576  exit
+  577  ls
+  578  pipenv shell
+  579   . /home/du_233601-1727455242/.local/share/virtualenvs/du_233601-1727455242-Ix3ApQkC/bin/activate
+  580  ls
+  581  cd 02-python-for-developers-classwork/
+  582  ls
+  583  cd PROJECT/
+  584  ls
+  585  pipenv install fastapi uvicorn --python 3.7
+  586  ls
+  587  cd ..
+  588  ls
+  589  cd ..
+  590  ls
+  591  rm Pipfile
+  592  ls
+  593  rm Pipfile.lock
+  594  ls
+  595  cd 02
+  596  cd 02-python-for-developers-classwork/
+  597  ls
+  598  cd PROJECT
+  599  ls
+  600  pipenv shell
+  601  ls
+  602  pipenv install fastapi uvicorn --python 3.7
+  603  pipenv install sqlalchemy psycopg2-binary
+  604  pipenv install pydantic pyjwt
+  605  pipenv run uvicorn main:app --reload
+  606  pipenv run  python seed.py
+  607  ls
+  608  psql -d recipes_db -U postgres
+  609  pipenv run  python seed.py
+  610  clear
+  611  pipenv run python seed.py
+  612  psql -d recipes_db -U postgres
+  613  creatdb
+  614  createdb
+  615  clear
+  616  psql -d recipes_db -U postgres
+  617  pipenv run python seed.py
+  618  createdb recipes_db -U postgres
+  619  pipenv run python seed.py
+  620  psql -d recipes_db -U postgres
+  621  clear
+  622  pipenv run python seed.py
+  623  clear
+  624  psql recipes_db -U postgres
+  625  psql -d recipes_db -U postgres
+  626  pipenv run python seed.py
+  627  psql -d recipes_db -U postgres
+  628  pipenv run python seed.py
+  629  psql -d recipes_db -U postgres
+  630  pipenv run python seed.py
+  631  psql -d recipes_db -U postgres
+  632  /bin/python /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  633  /bin/python /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  634  ls
+  635  cd 02-python-for-developers-classwork/
+  636  ls
+  637  code .
+  638  las
+  639  ls
+  640  cd 02-python-for-developers-classwork/
+  641  ls
+  642  cd PROJECT/
+  643  ls
+  644  code .
+  645  history
+  646  ls
+  647  code .
+  648  pipenv run uvicorn main:app --reload
+  649  pipenv run python seed.py
+  650  pipenv run uvicorn main:app --reload
+  651  pipenv install pyjwt
+  652  pipenv run uvicorn main:app --reload
+  653  pipenv run python seed.py
+  654  clear
+  655  pipenv run python seed.py
+  656  pipenv run uvicorn main:app --reload
+  657  pipenv run python seed.py
+  658  clear
+  659  pipenv run python seed.py
+  660  clear
+  661  pipenv run python seed.py
+  662  clear
+  663  pipenv run python seed.py
+  664  clear
+  665  pipenv run python seed.py
+  666  pipenv run uvicorn main:app --reload
+  667  pipenv run python seed.py
+  668  pipenv run uvicorn main:app --reload
+  669  pipenv run python seed.py
+  670  pipenv run uvicorn main:app --reload
+  671  pipenv run python seed.py
+  672  clear
+  673  pipenv run python seed.py
+  674  clear
+  675  pipenv run python seed.py
+  676  clear
+  677  pipenv run python seed.py
+  678  clear
+  679  pipenv run python seed.py
+  680  clear
+  681  pipenv run python seed.py
+  682  pipenv run uvicorn main:app --reload
+  683  pipenv run python seed.py
+  684  pipenv run uvicorn main:app --reload
+  685  ls
+  686  pipenv run uvicorn main:app --port 8005 --reload
+  687  pipenv run python seed.py
+  688  psql -d recipes_db -U postgres
+  689  ls
+  690  cd 02-python-for-developers-classwork/
+  691  ls
+  692  exit
+  693  ls
+  694  cd 02
+  695  ls
+  696  cd 02-python-for-developers-classwork/
+  697  ls
+  698  cd PROJECT/
+  699  ls
+  700  code .
+  701  ls
+  702  cd ..
+  703  ls
+  704  code ,
+  705  code .
+  706  ls
+  707  cd Day-02
+  708  cd Day-02.\ Building\ Your\ Own\ API/
+  709  ls
+  710  cd 02.\ Fast\ API\ CRUD\ App/
+  711  ls
+  712  code .
+  713  ls
+  714  pipenv run uvicorn main:app --port 8000 --reload
+  715  cd development
+  716  git clone https://git.generalassemb.ly/prudential-infrastructure-developer/03-infrastructure-developers-classwork.git
+  717  ls
+  718  cd 03-infrastructure-developers-classwork/
+  719  ls
+  720  /bin/python /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/du_233601-1727455242/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  721  wget -q -O ~/environment_setup.sh https://infradev-lab-repo-configuration.s3.amazonaws.com/environment_setup.sh
+  722  sh ~/environment_setup.sh
+  723  wget -q -O ~/environment_setup.sh https://infradev-lab-repo-configuration.s3.amazonaws.com/environment_setup.sh
+  724  sh ~/environment_setup.sh
+  725  wget -q -O ~/environment_setup.sh https://infradev-lab-repo-configuration.s3.amazonaws.com/environment_setup.sh
+  726  sh ~/environment_setup.sh
+  727  ls
+  728  cd development
+  729  sed -i 's/COURSE_START_DATE="2024-09-23"/COURSE_START_DATE="2024-11-11"/' ~/setup/daily/daily_script.sh
+  730  ls
+  731  cd development/
+  732  ls
+  733  cd 03-infrastructure-developers-classwork/
+  734  ls
+  735  ls -a
+  736  ls -l
+  737  ls
+  738  cd development/
+  739  ls
+  740  cd 03
+  741  cd 03-infrastructure-developers-classwork/
+  742  code .
+  743  docker
+  744  docker ps
+  745  curl localhost
+  746  docker exit -it 3fd13ec9bbf2 /bin/sh
+  747  docker exec -it 3fd13ec9bbf2 /bin/sh
+  748  curl localhost
+  749  exit
+  750  clear
+  751  docker ps
+  752  docker system df
+  753  docker --version
+  754  docker images
+  755  docker 
+  756  docker images
+  757  docker image
+  758  docker image ls
+  759  docker image history
+  760  docker pull httpd
+  761  docker images
+  762  docker ps
+  763  docker ps -a
+  764  clear
+  765  docker images
+  766  docker create httpd
+  767  docker ps
+  768  dokce rps
+  769  clear
+  770  docker ps
+  771  docker ps -a
+  772  3fd13ec9bbf2
+  773  clear
+  774  docker start 3fd13ec9bbf2
+  775  docker ps
+  776  docker run nginx
+  777  docker ps
+  778  docker run nginx
+  779  docker --version
+  780  docker images
+  781  docker pull httpd
+  782  docker images
+  783  docker create httpd
+  784  docker ps
+  785  docker start 3fd13ec9bbf2
+  786  docker run nginx
+  787  clear
+  788  docker run nginx
+  789  clear
+  790  docker ps
+  791  docker exec -it d8bb43b0d48c /bin/sh
+  792  docker -ps
+  793  docker ps
+  794  docker images
+  795  docker ps -a
+  796  docker run --name container-app -d -p 8080:80 nginxdemos/hello
+  797  docker run hello-world
+  798  docker ps
+  799  docker images
+  800  ls
+  801  cd development/
+  802  ls
+  803  cd 03-infrastructure-developers-classwork/
+  804  ls
+  805  cd day-02
+  806  ls
+  807  cd lab-01
+  808  ls
+  809  exit
+  810  pip freeze
+  811  man cat
+  812  pip freeze
+  813  exit
+  814  /bin/python3 "/home/du_233601-1727455242/01-python-programming-classwork/Day-10. Final Project/01. Python_Project/project_starter.py"
+  815  ls
+  816  cd ..
+  817  ls
+  818  cd du_233601-1727455242/
+  819  ls
+  820  cd 01
+  821  cd 01-python-programming-classwork/
+  822  ls
+  823  cd Day-10.\ Final\ Project/
+  824  ls
+  825  cd 01.\ Python_Project/
+  826  ls
+  827  cd ..
+  828  ls
+  829  cd ..
+  830  cd .
+  831  ls
+  832  code .
+  833  ls
+  834  cd ..
+  835  ls
+  836  cd 02-python-for-developers-classwork/
+  837  ls
+  838  code .
+  839  aws s3 cp s3://aws-cloudtrail-logs-941377132328-53557579/AWSLogs/941377132328/CloudTrail/us-east-1/2024/11/21/941377132328_CloudTrail_us-east-1_20241121T1545Z_YOFNHM77pHbXSnHL.json.gz .
+  840  ls
+  841  gzip -d --stdout 941377132328_CloudTrail_us-east-1_20241121T1545Z_YOFNHM77pHbXSnHL.json.gz | jq
+  842  ls
+  843  gzip -d --stdout 941377132328_CloudTrail_us-east-1_20241121T1545Z_YOFNHM77pHbXSnHL.json.gz | jq
+  844  aws s3 cp s3://aws-cloudtrail-logs-941377132328-53557579/AWSLogs/941377132328/CloudTrail/us-east-1/2024/11/21/941377132328_CloudTrail_us-east-1_20241121T1545Z_nOkaIAr1oohYkmDj.json.gz
+  845  aws s3 cp s3://aws-cloudtrail-logs-941377132328-53557579/AWSLogs/941377132328/CloudTrail/us-east-1/2024/11/21/941377132328_CloudTrail_us-east-1_20241121T1545Z_nOkaIAr1oohYkmDj.json.gz .
+  846  ls
+  847  gzip -d --stdout s3://aws-cloudtrail-logs-941377132328-53557579/AWSLogs/941377132328/CloudTrail/us-east-1/2024/11/21/941377132328_CloudTrail_us-east-1_20241121T1545Z_nOkaIAr1oohYkmDj.json.gz | jq
+  848  gzip -d --stdout s3://aws-cloudtrail-logs-941377132328-53557579/AWSLogs/941377132328/CloudTrail/us-east-1/2024/11/21/941377132328_CloudTrail_us-east-1_20241121T1545Z_nOkaIAr1oohYkmDj.json.gz . | jq
+  849  aws s3 cp s3://aws-cloudtrail-logs-941377132328-53557579/AWSLogs/941377132328/CloudTrail/us-east-1/2024/11/21/941377132328_CloudTrail_us-east-1_20241121T1545Z_nOkaIAr1oohYkmDj.json.gz.
+  850  docker ps
+  851  docker exec -it e3fec3170b46 /bin/sh
+  852  docker run --name container-app -d -p 8080:80 nginxdemos/hello
+  853  docker -ps
+  854  docker
+  855  docker -ps
+  856  cls
+  857  clear
+  858  docker images
+  859  docker rmi 9c8
+  860  docker ps
+  861  docker stop 114
+  862  docker ps
+  863  docker rm 114
+  864  docker rmi 9c8
+  865  docker ps
+  866  docker images
+  867  clear
+  868  docker images
+  869  docker ps
+  870  docker images
+  871  docker images ngix
+  872  docker images nginx
+  873  docker rmi nginx
+  874  docker ps
+  875  docker rmi nginx
+  876  docker ps
+  877  docker stop 59f
+  878  docker ps
+  879  docker ps -a
+  880  docker images
+  881  docker rmi 60c
+  882  docker ps
+  883  docker ps -a
+  884  docker rm 3fd
+  885  docker stop 3fd
+  886  docker rm 3fd
+  887  docker images
+  888  docker ps
+  889  docker rmi 60c
+  890  docker stop a453
+  891  docker rmi 60c
+  892  docker stop a453af8e304b
+  893  docker rmi 60c
+  894  docker stop 59f896a892a4
+  895  docker rmi 60c
+  896  docker images
+  897  docker rmi 60c8a
+  898  docker stop rm e3fec
+  899  docker rm e3fec
+  900  docker rmi 60c8a
+  901  docker images
+  902  docker ps
+  903  docker ps -a
+  904  docker stop 59f
+  905  docker stop 59f fa0 e7d e45
+  906  docker stop 59f fa0 e7d a45
+  907  docker ps -a
+  908  docker rm  59f fa0 e7d e45
+  909  docker rm  59f fa0 e7d a45
+  910  docker ps -a
+  911  docker rmi 60c8a
+  912  docker ps
+  913  docker ps -a
+  914  clear
+  915  docker ps
+  916  docker ps -a
+  917  docker run --name container-app -d -p 8080:80 nginxdemos/hello
+  918  docker -ps
+  919  docker ps
+  920  docker images
+  921  docker ps
+  922  curl localhost
+  923  curl localhost:8080
+  924  docker ps
+  925  docker exec ced
+  926  docker ps
+  927  clear
+  928  docker
+  929  docker ps
+  930  docker images
+  931  docker ps
+  932  docker stop ced
+  933  docker ps
+  934  docker ps -a
+  935  docker start ceda
+  936  docker ps
+  937  curl localhost:8080
+  938  docker ps
+  939  docker run ngnix
+  940  docker ps
+  941  docker stop ceda
+  942  docker ps
+  943  dockker -a
+  944  docker
+  945  docker images
+  946  docker ps
+  947  docker create httpd
+  948  docker ps
+  949  docker images
+  950  docker create httpd
+  951  docker ps
+  952  docker ps -a
+  953  docker ps
+  954  docker stop 383
+  955  docker stop 97f
+  956  docker stop ceda
+  957  docker ps -a
+  958  docker rm 383
+  959  docker rm 97f
+  960  docker rm ceda
+  961  docker rm 82
+  962  docker ps -a
+  963  docker images
+  964  docker rmi
+  965  docker images
+  966  docker rmi 9c8
+  967  docker images
+  968  clear
+  969  docker --version
+  970  docker images
+  971  docker images httpsd
+  972  docker images httpd
+  973  docker
+  974  docker image
+  975  docker image rm httpd
+  976  docker images
+  977  docker pull httpd
+  978  docker images
+  979  docker ps
+  980  docker ps -a
+  981  docker create httpd
+  982  docker ps -a
+  983  docker start dcaf8ad5fc0f
+  984  docker ps
+  985  docker run nginx
+  986  clear
+  987  cd ~/development/03-infrastructure-developers-classwork/day-02/lab-01/
+  988  ls
+  989  pwd
+  990  ls
+  991  pwd
+  992  ls
+  993  code Dockerfile
+  994  ls
+  995  docker build -t fastapi-app . --no-cache
+  996  docker images
+  997  docker inspect fastapi-app
+  998  docker ps
+  999  docker images
+ 1000  docker run -d -p 80:80 fastapi-app
+ 1001  curl localhost
+ 1002  ls
+ 1003  docker build -t fastapi-app . --no-cache
+ 1004  curl localhost
+ 1005  docker run -d -p 80:80 fastapi-app
+ 1006  curl localhost
+ 1007  docker build -t fastapi-app . --no-cache
+ 1008  docker run -d -p 80:80 fastapi-app
+ 1009  curl localhost
+ 1010  docker build -t fastapi-app . --no-cache
+ 1011  docker run -d -p 80:80 fastapi-app
+ 1012  docker run -d -p 8000:80 fastapi-app
+ 1013  curl localhost:8000
+ 1014  docker images
+ 1015  docker ps
+ 1016  docker stop dc8 28e
+ 1017  docker ps
+ 1018  docker ps -a
+ 1019  docker stop dc83 b6cda s8ec
+ 1020  docker stop dc83 b6cda 28ec 6379 7bdf
+ 1021  docker ps -a
+ 1022  docker stop dc83 b6cda 28ec 6379 7bdf
+ 1023  docker rm dc83 b6cda 28ec 6379 7bdf
+ 1024  docker ps -a
+ 1025  ls
+ 1026  docker run -d -p 8000:80 fastapi-app
+ 1027  docker exec -it a77 /bin/bash
+ 1028  docker images
+ 1029  docker ps -a
+ 1030  images
+ 1031  docker images
+ 1032  docker ps -a
+ 1033  docker ps
+ 1034  clear
+ 1035  docker imges
+ 1036  docker images
+ 1037  docker ps
+ 1038  docker ps -a
+ 1039  docker imges
+ 1040  docker images
+ 1041  docker build -t fastapi-app . --no-cache
+ 1042  docker images
+ 1043  docker build -t fastapi-app . --no-cache
+ 1044  docker images
+ 1045  docker build -t fastapi-app:2 . --no-cache
+ 1046  docker images
+ 1047  docker build -t fastapi-app:2 . --no-cache
+ 1048  docker images
+ 1049  docker build -t fastapi-app:2 .
+ 1050  docker images
+ 1051  docker build -t fastapi-app .
+ 1052  docker images
+ 1053  docker build -t fastapi-app:latest .
+ 1054  docker images
+ 1055  docker build -t fastapi-app:latest . --nocache
+ 1056  docker build -t fastapi-app . --no-cache
+ 1057  docker images
+ 1058  aws ecr-public create-repository --region us-east-1 --repository-name fastapi-app 
+ 1059  aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/s8h9i6r1
+ 1060  docker tag fastapi-app:latest public.ecr.aws/s8h9i6r1/fastapi-app:latest
+ 1061  docker push public.ecr.aws/s8h9i6r1/fastapi-app:latest
+ 1062  docker images
+ 1063  docker inspect fastapi-app | jq '.[].RepoDigests[0]' --raw-output
+ 1064  terraform -version
+ 1065  cd ~/development/03-infrastructure-developers-classwork/day-04/lab-01/
+ 1066  ls
+ 1067  cd ~/development/03-infrastructure-developers-classwork/day-04/lab-01/
+ 1068  pwd
+ 1069  ls
+ 1070  code main.tf
+ 1071  terraform init
+ 1072  terraform init --upgrade
+ 1073  terraform plan
+ 1074  terraform apply
+ 1075  terraform plan
+ 1076  terraform apply --auto-aprove
+ 1077  terraform apply --auto-approve
+ 1078  terraform destroy --auto-approve
+ 1079  cd ~/development/03-infrastructure-developers-classwork/day-04/lab-02/
+ 1080  terraform init
+ 1081  terraform init --upgrade
+ 1082  terraform plan
+ 1083  terraform apply --auto-approve
+ 1084  terraform destroy --auto-approve
+ 1085  clear
+ 1086  cd ~/development/03-infrastructure-developers-classwork/day-06/lab-01/
+ 1087  terraform init
+ 1088  ls
+ 1089  terraform plan
+ 1090  IMAGE_URI=$(aws ecr-public describe-repositories \
+ 1091      --query "repositories[?repositoryName=='fastapi-app'].[repositoryUri]" \
+ 1092      --region us-east-1 --output text):latest
+ 1093  echo $IMAGE_URI
+ 1094    public.ecr.aws/w8v5a4f6/fastapi-app:latest
+ 1095  public.ecr.aws/s8h9i6r1/fastapi-app:latest
+ 1096  terraform apply -var="image_uri=${IMAGE_URI}
+ 1097  terraform apply -var="image_uri=${IMAGE_URI}"
+ 1098  history
+ 1099  echo hello md5
+ 1100  echo hello >  md5
+ 1101  ls
+ 1102  rm md5
+ 1103  cd ~/development/03-infrastructure-developers-classwork/day-07/lab-01/
+ 1104  code lab-root-ca.json
+ 1105  cfssl gencert -initca lab-root-ca.json | cfssl-json -bare root-ca
+ 1106  ls
+ 1107  code cert_profiles.json
+ 1108  code server_csr_config.json
+ 1109  cfssl gencert     -ca root-ca.pem     -ca-key root-ca-key.pem     -config cert_profiles.json     -profile=server     server_csr_config.json     | cfssl-json -bare web-server
+ 1110  ls
+ 1111  sudo cp root-ca.pem /etc/pki/ca-trust/source/anchors/
+ 1112  sudo update-ca-trust
+ 1113  sudo chmod 755 /etc/pki/ca-trust/source/anchors/root-ca.pem
+ 1114  cd ~/development/03-infrastructure-developers-classwork/day-07/lab-01/
+ 1115  cp web-server.pem web-server/
+ 1116  cp web-server-key.pem web-server/
+ 1117  cd web-server
+ 1118  ls
+ 1119  docker build -t certificate-lab .
+ 1120  docker run -d --name certificate-lab-server -p 8443:443 certificate-lab
+ 1121  cd ~/development/03-infrastructure-developers-classwork/day-06/lab-01/
+ 1122  code main.tf
+ 1123  IMAGE_URI=$(aws ecr-public describe-repositories \
+ 1124      --query "repositories[?repositoryName=='fastapi-app'].[repositoryUri]" \
+ 1125      --region us-east-1 --output text):latest
+ 1126  echo $IMAGE_URI
+ 1127  terraform apply -var="image_uri=${IMAGE_URI}" --auto-approve
+ 1128  echo $IMAGE_URI
+ 1129  terraform apply -var="image_uri=${IMAGE_URI}" --auto-approve
+ 1130  echo $IMAGE_URI
+ 1131  terraform apply -var="image_uri=${IMAGE_URI}" --auto-approve
+ 1132  postgresql://postgres:test1234@infradev-database-instance-1.cb0o0eawgl1c.us-east-1.rds.amazonaws.com:5432
+ 1133  psql postgresql://postgres:test1234@infradev-database-instance-1.cb0o0eawgl1c.us-east-1.rds.amazonaws.com:5432
+ 1134  history
+ 1135  sql recipes_db -U postgres
+ 1136  history
+ 1137  docker ps
+ 1138  docker exec -it 261ed7062616 /bin/sh
+ 1139  ls
+ 1140  docker exec -it 261ed7062616 /bin/sh
+ 1141  docker run --name container-app -d -p 8080:8o nginxdemos/hello
+ 1142  docker run --name container-app -d -p 8080:80 nginxdemos/hello
+ 1143  docker ps
+ 1144  docker ps -a
+ 1145  clear
+ 1146  docker
+ 1147  docker ps
+ 1148  docker stop fb65ad1968e5
+ 1149  docker ps
+ 1150  docker stop 261ed7062616
+ 1151  docker ps
+ 1152  docker ps -a
+ 1153  ls
+ 1154  cd 02-python-for-developers-classwork/
+ 1155  ls
+ 1156  history
+ 1157  ls
+ 1158  cd PROJECT/
+ 1159  ls
+ 1160  code .
+ 1161  pipenv run uvicorn main:app --reload
+ 1162  history
+ 1163  pipenv run python seed.py
+ 1164  psql -d recipes_db -U postgres
+ 1165  createdb
+ 1166  sudo systemctl stop postgres
+ 1167  sudo -u postgres postgres --single -D /var/lib/pgsql/data
+ 1168  psql -d recipes_db -U postgres
+ 1169  clear
+ 1170  psql -d recipes_db -U postgres
+ 1171  psql recipies_db -U postgres
+ 1172  psql -U postgres
+ 1173  psql -d recipes_db -U postgres
+ 1174  createdb recipes_db -U postgres
+ 1175  psql -d recipes_db -U postgres
+ 1176  pipenv run python seed.py
+ 1177  history
+ 1178  pipenv run uvicorn main:app --reload
+ 1179  docker --version
+ 1180  docker images
+ 1181  docker pull httpd
+ 1182  docker images
+ 1183  docker pull httpd
+ 1184  docker images
+ 1185  docker create httpd
+ 1186  docker images
+ 1187  docker ps
+ 1188  docker ps -a
+ 1189  clear
+ 1190  docker ps -a
+ 1191  docker start 261ed7062616
+ 1192  docker ps
+ 1193  docker images -a
+ 1194  docker images
+ 1195  docker ps -a
+ 1196  docker ps
+ 1197  docker run ngingx
+ 1198  docker run nginx
+ 1199  ls
+ 1200  cd 02-python-for-developers-classwork/
+ 1201  ls
+ 1202  cd PROJECT/
+ 1203  ls
+ 1204  pico Dockerfile
+ 1205  code Dockerfile
+ 1206  ls
+ 1207  cd ..
+ 1208  ls
+ 1209  cd ..
+ 1210  ks
+ 1211  cd l
+ 1212  ls
+ 1213  cd ..
+ 1214  ls
+ 1215  cd du_233601-1727455242/
+ 1216  cd development/
+ 1217  ls
+ 1218  cd 03
+ 1219  ls
+ 1220  cd 03-infrastructure-developers-classwork/
+ 1221  ls
+ 1222  ls -help
+ 1223  ls --help
+ 1224  ls Dockerfile -R
+ 1225  ls Dockerfile
+ 1226  ls -r Dockerfile
+ 1227  ls -R Dockerfile
+ 1228  ls
+ 1229  cd day-01/
+ 1230  ls
+ 1231  cd lab-02
+ 1232  ls
+ 1233  cd images
+ 1234  ls
+ 1235  cd ..
+ 1236  ls
+ 1237  cd content
+ 1238  ls
+ 1239  cd ..
+ 1240  ls
+ 1241  cd lab-02
+ 1242  ls
+ 1243  cd ..
+ 1244  cd ..
+ 1245  ls
+ 1246  cd ..
+ 1247  ls
+ 1248  cd day* -R -a
+ 1249  cd day* -R -A
+ 1250  ls -lR
+ 1251  ls -lR Dockerfile
+ 1252  ls -lR main.py
+ 1253  ls -lR /main.py
+ 1254  ls -lR Dockerfile
+ 1255  ls -lR
+ 1256  pwd
+ 1257  ls
+ 1258  cd 03-infrastructure-developers-classwork/
+ 1259  cd extras
+ 1260  cd solutions/
+ 1261  cd Mid-project/
+ 1262  ls
+ 1263  pico
+ 1264  pim Dockerfile
+ 1265  code Dockerfile
+ 1266  ls
+ 1267  cd ..
+ 1268  ls
+ 1269  cd ..
+ 1270  ls
+ 1271  cd ..
+ 1272  ls
+ 1273  cd day-02
+ 1274  ls
+ 1275  cd lab-01/
+ 1276  ls
+ 1277  code Dockerfile
+ 1278  ls
+ 1279  cd development/
+ 1280  ls
+ 1281  cd 03
+ 1282  cd 03-infrastructure-developers-classwork/
+ 1283  ls
+ 1284  cd ..
+ 1285  ls
+ 1286  cd ..
+ 1287  ls
+ 1288  cd 02
+ 1289  ls
+ 1290  cd 02-python-for-developers-classwork/
+ 1291  ls
+ 1292  cd PROJECT/
+ 1293  ls
+ 1294  code .
+ 1295  ls
+ 1296  pip freeze > requirements.txt
+ 1297  history
+ 1298  ls
+ 1299  cd 02
+ 1300  cd 02-python-for-developers-classwork/
+ 1301  ls
+ 1302  code .
+ 1303  ls
+ 1304  cd project
+ 1305  ls
+ 1306  cd Pro
+ 1307  cd PROJECT/
+ 1308  ls
+ 1309  code.
+ 1310  code .
+ 1311  history > cmds.txt
